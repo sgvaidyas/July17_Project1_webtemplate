@@ -1,0 +1,178 @@
+header{
+    width: 100%;
+    background-color: black;
+    height: 150px;
+}
+.li_style
+{
+    color: antiquewhite;
+    font-family: monospace;
+    float: left;
+    width: 25%;
+    list-style: none;
+    font-size: 20px;
+    padding-top: 40px;
+}
+#logo
+{
+    width: 10%;
+    height: 150px;
+    float: left;
+}
+#logo img
+{    
+    padding-top:25px;
+    display: block;
+    margin: 0 auto;
+}
+#menu
+{
+    width: 50%;
+    height: 150px;
+    float: left;
+    margin-left: 40%;
+}
+
+/*  Content section  */
+#content1
+{
+    width: 100%;
+    height: 400px;
+    background:url('../images/bg1.jpg');
+    color:white
+}
+
+.cont_a
+{
+    padding-top: 200px;
+    width: 80%;
+    margin: 0 10%;
+}
+.cont_a p
+{
+    font-size: 20px;
+    background-color: black;
+    padding: 2%;
+    text-align: center;
+}
+
+/* content2 */
+#content2
+{
+    width: 100%;
+    height: 500px;
+    background-color: crimson;
+}
+.cont2_a{
+    width: 100%;
+    height: 150px;
+    background-color: crimson;
+}
+.cont2_a p{
+    width: 60%;
+    margin: 0 20%;
+    padding-top: 50px;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 14px;
+    text-align: center;
+}
+.cont2_b{
+    width: 100%;
+    height:300px;
+    background-color: crimson;
+}
+.innerDiv
+{
+    width: 20%;
+    background-color: rgb(3, 3, 3);
+    height: 300px;
+    float: left;
+    color:goldenrod;
+    text-align: center;
+}
+.mLR10
+{
+    margin: 0 10%;
+}
+.mL10
+{
+    margin-left:  10%;
+}
+
+.mR10
+{
+    margin-right: 10%;
+}
+.cont2_b img
+{
+    border-radius: 50px;
+}
+
+
+/* content3*/
+#content3
+{
+    width: 100%;
+    height: 300px;
+    background-color: seagreen;
+}
+.cont3left
+{
+    margin-left: 10%;
+    margin-right: 5%;
+    width: 65%;
+    background-color: aquamarine;
+    height:200px;
+    float: left;
+    margin-top: 50px;
+}
+.cont3right{
+    margin-right: 10%;
+    width: 10%;
+    background-color: aquamarine;
+    height:200px;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+}
+.cont3left p{
+    padding: 2%;
+}
+.cont3right img{
+    padding-top: 50px;
+}
+
+/* content4 */
+
+
+#content4
+{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(39, 3, 39);
+    padding-top:100px
+}
+.cont4_left
+{
+    width: 30%;
+    margin: 0 10%;
+    float: left;
+    height: 400px;
+}
+.cont4_right
+{
+    width: 40%;
+    margin-right: 10%;
+    float: left;
+    height: 400px;
+}
+.cont4_left div
+{
+    width: 100%;
+    height:40px;
+    background-color: darkgoldenrod;
+    border-bottom: 1px dotted black;
+    text-align: center;
+    padding-top: 35px;
+}
